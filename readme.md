@@ -35,10 +35,6 @@ After you're finished please remove all the comments and instructions!
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -67,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">adding HTML and CSS.</a></li>
   </ul>
 </details>
 
@@ -78,12 +74,7 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+
 
 <!-- Features -->
 
@@ -155,7 +146,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project, star the project if you like it
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,7 +154,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
+I would like to thank my code partners and mentors for support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
