@@ -63,18 +63,14 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">adding HTML and CSS.</a></li>
+    <li><a href="#">
+      HTML 
+     </a></li>
+    <li><a href="#">
+      CSS
+     </a></li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-
 
 <!-- Features -->
 
